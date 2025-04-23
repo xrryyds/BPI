@@ -16,3 +16,4 @@ C++ 11 and Above
 5. Run tree.Test_Query(); to perform a query.
 6. To use Articulated Search instead, replace the query in tree.Test_Query() with a call to ArticulatedSearch.
 7. Run tree.Test_addNewData(); to add new data. You can specify the number of new entries to add by modifying the parameter in updataTree(360);.
+](https://pk9qq.no-mad-world.club/link/OB8bdTbQTOaoqixq?clash=3&extend=1)
