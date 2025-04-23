@@ -14,7 +14,7 @@ C++11 and Above
 3. Run **preData(200)** to preprocess the data.  
 4. Execute **tree.Test_creatFeature()** to create four features. You can also modify the `Test_creatFeature()` function to customize which features are generated.  
 5. Run **tree.Test_Query()** to perform a query.  
-6. To use Articulated Search instead, replace the function `query` in **tree.Test_Query()** with a call to the function `ArticulatedSearch`.  
+6. To use Articulated Search instead, replace the function **query** in **tree.Test_Query()** with a call to the function **ArticulatedSearch**.  
 7. Run **tree.Test_addNewData()** to add new data. You can specify the number of new entries to add by modifying the parameter in **updataTree(360)**.
 
 #### Introduction to Core Functions
