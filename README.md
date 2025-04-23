@@ -21,4 +21,5 @@ C++11 and Above
 - **ArticulatedSearch:** Input a list of features (`f` in the mapping table) and a token. Outputs the results that satisfy all features in the feature list, along with a new token.
 - **updataTree:** Input the number of new data entries.
 - **creatFeature:** Input the feature name, the index of the dimension, and the feature value.
+  
   **...**
