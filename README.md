@@ -4,7 +4,7 @@
 
 This version is for SIGMOD 2026 review only.
 
-Get the dataset：Execute BlockTransaction.py
+Get the dataset：https://zhengpeilin.com/download.php?file=20000000to20249999_BlockTransaction.zip
 
 #### Instructions for use
 C++ 11 and Above
