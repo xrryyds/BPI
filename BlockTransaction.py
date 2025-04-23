@@ -61,4 +61,4 @@ for file in files:
     theZIP.close()    
 
 
-print(tx_count, total_fees/1e+18, total_blobs)
+print("finished")
